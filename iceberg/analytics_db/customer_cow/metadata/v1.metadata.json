@@ -1,0 +1,70 @@
+{
+  "format-version" : 2,
+  "table-uuid" : "5713b103-cb92-43ee-b23e-2c82e01597f7",
+  "location" : "file:///Users/arunkumar/Desktop/icebergtable/iceberg/analytics_db/customer_cow",
+  "last-sequence-number" : 0,
+  "last-updated-ms" : 1765825680207,
+  "last-column-id" : 6,
+  "current-schema-id" : 0,
+  "schemas" : [ {
+    "type" : "struct",
+    "schema-id" : 0,
+    "fields" : [ {
+      "id" : 1,
+      "name" : "id",
+      "required" : false,
+      "type" : "long"
+    }, {
+      "id" : 2,
+      "name" : "name",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 3,
+      "name" : "email",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 4,
+      "name" : "city",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 5,
+      "name" : "events",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 6,
+      "name" : "event_datetime",
+      "required" : false,
+      "type" : "timestamptz"
+    } ]
+  } ],
+  "default-spec-id" : 0,
+  "partition-specs" : [ {
+    "spec-id" : 0,
+    "fields" : [ ]
+  } ],
+  "last-partition-id" : 999,
+  "default-sort-order-id" : 0,
+  "sort-orders" : [ {
+    "order-id" : 0,
+    "fields" : [ ]
+  } ],
+  "properties" : {
+    "owner" : "arunkumar",
+    "write.merge.mode" : "copy-on-write",
+    "write.format.default" : "parquet",
+    "write.delete.mode" : "copy-on-write",
+    "write.parquet.compression-codec" : "zstd",
+    "write.update.mode" : "copy-on-write"
+  },
+  "current-snapshot-id" : -1,
+  "refs" : { },
+  "snapshots" : [ ],
+  "statistics" : [ ],
+  "partition-statistics" : [ ],
+  "snapshot-log" : [ ],
+  "metadata-log" : [ ]
+}

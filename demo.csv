@@ -1,0 +1,101 @@
+id,name,email,city,event,event_datetime
+24,Carmen Ballard,lucasbeth@example.org,Port Elizabethside,purchase,2025-05-03 08:02:13.390884
+45,Kylie Davis,raymondgarcia@example.org,East Regina,purchase,2025-04-11 05:26:03.687884
+22,Patrick Patel,elliottshawn@example.com,Kathrynton,login,2025-02-13 20:15:59.141134
+13,John Porter,nguyenraymond@example.net,Hallside,cart,2025-05-22 22:12:22.593310
+55,Matthew Anderson,danielle89@example.net,Sweeneyside,login,2025-09-17 21:51:40.272335
+82,Judy Powell,michaelruiz@example.org,Port Erika,cart,2025-05-02 05:21:51.380306
+58,Michelle Cole,rogersveronica@example.com,Lake Shannonport,purchase,2025-04-22 07:59:55.064593
+44,Marc Molina,kimberly53@example.com,New Thomas,login,2025-04-27 17:59:52.046710
+100,Melody Martinez,juanrobinson@example.org,Littlebury,purchase,2025-07-24 00:22:47.353494
+44,Carla Peterson,tfernandez@example.com,Port Curtis,purchase,2025-05-18 08:23:02.535460
+91,Joshua King,rossbrent@example.net,New Daisy,logout,2025-02-05 16:27:04.755640
+19,John Roth,yboyd@example.org,Lake Pamela,purchase,2025-03-19 19:43:50.458334
+24,Bradley Smith,simpsonallison@example.net,New Sydneyport,logout,2025-08-29 06:38:27.246093
+93,Jamie Thomas,felicia45@example.org,Mathewsstad,cart,2025-08-05 07:25:20.044852
+63,James Bowen,igordon@example.org,Cherylshire,logout,2025-07-06 12:36:14.761793
+89,Jacob Mills,jodibryant@example.org,Lake Josephstad,login,2025-02-03 09:02:54.152841
+47,Antonio Moreno,xbarry@example.net,New Karenville,cart,2025-10-19 03:05:31.901915
+7,Nicholas Morgan,brian68@example.net,South Alvin,cart,2025-08-15 14:27:27.182454
+6,Jennifer Weaver,kwilliams@example.net,North Jameston,cart,2025-04-03 10:20:07.158869
+70,Joshua Brown,tammie53@example.net,Whiteport,cart,2025-01-05 00:40:38.647088
+46,Maureen Parker,alexisschwartz@example.net,Bakerhaven,login,2025-07-15 12:35:19.386684
+34,Donald Ramirez,nancy85@example.com,Gutierrezshire,cart,2025-11-10 05:08:58.976406
+28,Robert Booth,mnelson@example.net,East Patricktown,purchase,2025-10-24 10:32:34.718498
+22,Melinda Williams,elizabeth17@example.org,Robertmouth,login,2025-05-26 10:41:26.403134
+12,Amanda Cox,stevenwelch@example.net,Lake Jorge,purchase,2025-02-18 20:58:26.175276
+39,Samantha Meadows,melissa39@example.org,Joseland,login,2025-07-05 09:32:43.317005
+15,Dawn Barnett,kevinhernandez@example.org,South Krystal,logout,2025-05-07 17:34:39.207279
+5,Joel Williams,rebekah58@example.org,South Gregory,purchase,2025-02-04 06:45:29.467005
+17,Julie James,xsmith@example.com,West Jamie,login,2025-04-24 12:15:27.796178
+87,Clayton Baker,mwagner@example.com,Ryanland,logout,2025-04-14 09:53:47.879950
+20,Brandon Garcia,ortegaandrew@example.net,Carpenterborough,purchase,2025-04-14 05:37:02.759221
+7,Michael Rice,nclark@example.net,Lake Charles,login,2025-06-24 19:28:22.588418
+81,Andrew Murphy,parsonsdouglas@example.org,West Danielle,cart,2025-07-27 09:26:07.796948
+70,James Frank,carol45@example.org,Marcoshire,login,2025-05-06 18:20:39.242018
+50,Darryl Yoder,ojones@example.net,Michaelstad,logout,2025-09-05 04:11:25.827416
+24,Dennis Roberts,thomasgreen@example.org,East Tamarashire,purchase,2025-06-26 22:03:57.819543
+20,Vanessa Casey,james17@example.org,Owensfurt,cart,2025-09-25 19:23:22.162421
+16,Adam Kirby,kingjames@example.org,Lake Mistymouth,logout,2025-07-09 18:30:14.798170
+56,Richard Miles,bortiz@example.com,Atkinsonmouth,cart,2025-08-10 19:54:10.792653
+19,Michelle Kelly,carrie18@example.com,South Edwardfurt,purchase,2025-05-10 19:00:51.405517
+50,Timothy Moore,meganharrison@example.com,Matthewstown,purchase,2025-03-19 08:17:59.276330
+83,Nicole Hood,tdickerson@example.net,East Sandra,purchase,2025-05-22 23:03:53.176121
+35,Tina Berry,figueroacolleen@example.org,Lorimouth,cart,2025-03-09 05:22:14.161120
+66,Steven Frank,jonathan73@example.org,Garrisonchester,cart,2025-07-13 15:22:42.322806
+79,Duane Bartlett,dvang@example.net,Feliciafurt,logout,2025-11-29 20:59:24.425061
+93,Mrs. Nancy Nelson,samantha89@example.org,Harristown,purchase,2025-09-24 13:25:57.258162
+87,Kelly Sanchez,sandra21@example.net,Reidfurt,login,2025-03-09 19:19:08.601175
+53,Dorothy Jordan,ffitzpatrick@example.org,North Erinborough,purchase,2025-09-19 19:05:53.253842
+16,Gavin Hill,ohurst@example.net,Mccoyburgh,cart,2025-08-18 22:52:23.610057
+92,Maria Key,sanchezmercedes@example.org,North Devinton,purchase,2025-02-26 22:31:57.210055
+43,Danny Jefferson,wrightkaren@example.net,Johnfort,cart,2025-11-25 00:55:55.470494
+16,David Gaines,christina74@example.net,South Charlesville,cart,2025-09-18 02:51:26.370856
+29,Amanda Rose,randybrowning@example.com,Lake Michaelchester,purchase,2025-11-04 02:35:53.515378
+85,Ronald Christensen,brendajohnson@example.com,North Matthewport,logout,2025-10-21 22:58:08.010370
+1,Chelsea Jones,jacobalvarado@example.com,Glennborough,logout,2025-04-04 05:12:43.858537
+60,John Jenkins,keith96@example.org,New Brandonfurt,purchase,2025-10-05 00:03:31.659287
+93,Carlos Best III,robinsmith@example.net,East Logan,cart,2025-08-19 02:26:35.274588
+37,Melissa Sanchez,aliciataylor@example.org,West David,login,2025-02-28 13:17:48.713175
+60,Shane Dickson,xjohnson@example.org,Erintown,logout,2025-05-03 11:04:09.406974
+67,Kristy Barr,christopherryan@example.net,Smithberg,login,2025-07-03 18:53:05.112207
+93,Brandi Welch,melissa29@example.net,Lawrenceside,logout,2025-09-10 00:45:35.053888
+25,Erin Garrett,cindybrown@example.org,Herringville,cart,2025-07-22 23:35:17.127846
+16,Tracy Moore,michaelandersen@example.org,West Sarahport,login,2025-03-28 09:10:06.226626
+85,Richard Griffin,jerryfowler@example.org,Perrychester,login,2025-11-19 07:53:30.343132
+7,Erin Steele DDS,lisavasquez@example.org,Nicoleshire,purchase,2025-04-23 13:25:18.268633
+2,Thomas Brown,greenjaclyn@example.net,Lake Calebland,cart,2025-05-21 10:51:37.914255
+60,Robert Nelson,edwardking@example.net,West Katie,purchase,2025-05-05 12:07:14.333331
+45,Robert Wilkins,douglas31@example.org,New Kayleeberg,logout,2025-07-21 13:42:55.768810
+85,Robert Moran,mlester@example.org,Lake Andrewberg,logout,2025-09-13 00:29:39.555360
+5,Jeremy Holden,sdominguez@example.net,Shelleyfurt,login,2025-12-13 05:32:01.195111
+70,Veronica Hayes,randyrichardson@example.net,Lake Brooke,cart,2025-03-03 12:04:58.947378
+16,Eric Becker,xhahn@example.net,Port Ricky,login,2025-02-19 02:26:03.904165
+79,William Horton,rileykimberly@example.com,West Emmaborough,cart,2025-07-08 12:36:15.511250
+20,Deborah Brown,taylorharry@example.org,Thomasfurt,cart,2025-06-06 00:58:44.380022
+28,Mackenzie Parker,rowerobert@example.com,New Jayshire,login,2025-07-24 20:03:55.757322
+23,Mary Chandler,brittanyphelps@example.net,Nicoletown,cart,2025-07-26 01:42:25.467135
+22,Benjamin Taylor,lambbenjamin@example.org,Stephaniemouth,cart,2025-12-13 23:58:25.110206
+11,Carlos Carlson,butlerlucas@example.org,Evelynfort,cart,2025-03-18 04:51:31.152555
+39,Ashley Wells,rbarber@example.net,Paulberg,purchase,2025-02-01 14:30:45.406845
+8,Stephen Herring,phillip40@example.org,Ericfurt,purchase,2025-02-11 04:27:00.722435
+45,Michelle Adams,christine00@example.net,South Jennifer,purchase,2025-05-15 04:46:49.979179
+63,Tammy Walsh,martinezjoshua@example.net,New Krista,cart,2025-06-21 10:37:21.281471
+49,Alan Briggs,potterashley@example.org,New Christopher,purchase,2025-10-04 13:17:22.345907
+81,Tommy Curtis,aspence@example.net,Port Sonyamouth,purchase,2025-01-29 01:24:34.338470
+40,Christopher Garcia,ernestsmith@example.com,Lake Robertaland,login,2025-09-26 15:15:52.411797
+15,Sara Blake,lgomez@example.net,Port Matthew,purchase,2025-04-10 20:50:40.780306
+28,Melissa Snow,rebecca87@example.net,Blevinsstad,cart,2025-07-06 05:01:09.572014
+34,Eric Johnson,mwebb@example.org,East Kellyfort,cart,2025-08-20 12:34:00.065482
+84,Robert Lewis,cindyboyd@example.net,Hilltown,login,2025-03-12 18:07:10.628825
+20,Gabriel Jordan,xgentry@example.org,East Brianland,logout,2025-05-11 00:54:07.383522
+9,Debra Owen,danielle36@example.com,Port Nicholaston,cart,2025-10-06 05:26:08.777268
+15,William Fletcher,wallacestacey@example.org,East Jonathan,purchase,2025-03-14 15:16:11.512023
+45,Michael Sanders,mariabrown@example.net,Webbside,purchase,2025-06-12 05:51:39.954015
+29,Kathleen Yates,znguyen@example.org,West Davidton,logout,2025-09-23 06:08:14.666031
+49,Crystal Reese,vmcneil@example.org,Robertland,purchase,2025-12-15 12:56:10.204113
+24,Andrew Phillips,zconway@example.org,Martinborough,cart,2025-07-25 01:32:45.259891
+55,Vanessa Randolph,christine83@example.net,Lisaton,cart,2025-01-17 08:23:29.311093
+41,Julie Jackson,ljohnson@example.net,Lake Robert,cart,2025-09-15 08:36:58.593775
+55,Carlos Cobb,jwilliams@example.com,Lake Ethanview,purchase,2025-08-14 18:30:01.560737
+67,Victoria Miller,ureilly@example.com,Jacksonmouth,cart,2025-02-15 18:44:15.483570

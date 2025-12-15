@@ -1,0 +1,94 @@
+{
+  "format-version" : 2,
+  "table-uuid" : "4620b7b3-da36-450f-b142-67824158ebb3",
+  "location" : "/Users/arunkumar/Desktop/icebergtable/iceberg_warehouse/analytics_db/customer_cow",
+  "last-sequence-number" : 1,
+  "last-updated-ms" : 1765826155694,
+  "last-column-id" : 6,
+  "current-schema-id" : 0,
+  "schemas" : [ {
+    "type" : "struct",
+    "schema-id" : 0,
+    "fields" : [ {
+      "id" : 1,
+      "name" : "id",
+      "required" : false,
+      "type" : "int"
+    }, {
+      "id" : 2,
+      "name" : "name",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 3,
+      "name" : "email",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 4,
+      "name" : "city",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 5,
+      "name" : "event",
+      "required" : false,
+      "type" : "string"
+    }, {
+      "id" : 6,
+      "name" : "event_datetime",
+      "required" : false,
+      "type" : "timestamptz"
+    } ]
+  } ],
+  "default-spec-id" : 0,
+  "partition-specs" : [ {
+    "spec-id" : 0,
+    "fields" : [ ]
+  } ],
+  "last-partition-id" : 999,
+  "default-sort-order-id" : 0,
+  "sort-orders" : [ {
+    "order-id" : 0,
+    "fields" : [ ]
+  } ],
+  "properties" : {
+    "owner" : "arunkumar",
+    "write.parquet.compression-codec" : "zstd"
+  },
+  "current-snapshot-id" : 1288503263705495889,
+  "refs" : {
+    "main" : {
+      "snapshot-id" : 1288503263705495889,
+      "type" : "branch"
+    }
+  },
+  "snapshots" : [ {
+    "sequence-number" : 1,
+    "snapshot-id" : 1288503263705495889,
+    "timestamp-ms" : 1765826155694,
+    "summary" : {
+      "operation" : "append",
+      "spark.app.id" : "local-1765826151814",
+      "added-data-files" : "1",
+      "added-records" : "100",
+      "added-files-size" : "5617",
+      "changed-partition-count" : "1",
+      "total-records" : "100",
+      "total-files-size" : "5617",
+      "total-data-files" : "1",
+      "total-delete-files" : "0",
+      "total-position-deletes" : "0",
+      "total-equality-deletes" : "0"
+    },
+    "manifest-list" : "/Users/arunkumar/Desktop/icebergtable/iceberg_warehouse/analytics_db/customer_cow/metadata/snap-1288503263705495889-1-ec780e1b-c4de-4db6-8fe0-b289d5a8e644.avro",
+    "schema-id" : 0
+  } ],
+  "statistics" : [ ],
+  "partition-statistics" : [ ],
+  "snapshot-log" : [ {
+    "timestamp-ms" : 1765826155694,
+    "snapshot-id" : 1288503263705495889
+  } ],
+  "metadata-log" : [ ]
+}
